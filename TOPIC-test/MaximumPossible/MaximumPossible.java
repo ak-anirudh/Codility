@@ -5,7 +5,6 @@ import java.util.*;
 public class MaximumPossible {
 
     public static int solution(int N) {
-        // write your code in Java SE 8
         if (N == 0) {
             return 5 * 10;
         }
